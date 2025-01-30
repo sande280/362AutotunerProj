@@ -1,8 +1,0 @@
-(sym_lib_table
-  (version 7)
-  (lib (name "stm32f091-cache")(type "Legacy")(uri "${KIPRJMOD}/KiCad Symbols/stm32f091-ref/stm32f091-cache.lib")(options "")(descr ""))
-  (lib (name "TDCG1050M")(type "KiCad")(uri "${KIPRJMOD}/KiCad Symbols/TDCG1050M/TDCG1050M.kicad_sym")(options "")(descr ""))
-  (lib (name "TLC59211IN")(type "KiCad")(uri "${KIPRJMOD}/KiCad Symbols/TLC59211IN/TLC59211IN.kicad_sym")(options "")(descr ""))
-  (lib (name "LCM-S01602DTR_M")(type "KiCad")(uri "${KIPRJMOD}/KiCad Symbols/LCM_S01602DTR_M/LCM-S01602DTR_M.kicad_sym")(options "")(descr ""))
-  (lib (name "soc1602a")(type "KiCad")(uri "${KIPRJMOD}/KiCad Symbols/SOC1602A/soc1602a.kicad_sym")(options "")(descr ""))
-)
