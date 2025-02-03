@@ -1,6 +1,6 @@
 # Final Demo Video Link: https://youtube.com/shorts/DRTG0014v1s?feature=share
 
-# ECE36200 Final Project - Autotune and the Microcontrollers
+# Autotune and the Microcontrollers
 
 ## Project Description
 - Display the frequency of the input wave and output wave using the OLED display and SPI.
